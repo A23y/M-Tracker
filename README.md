@@ -12,6 +12,9 @@ Wanna look out for your target over the internet?? Check for IP?? Check phone no
 - **IP Lookup**: Get detailed information about an IP address, such as location, ISP, and timezone, by using the ipinfo.io service.
 - **Phone Number Validation**: Validate phone numbers and retrieve information like country, carrier, and timezone using the `phonenumbers` library.
 
+
+Also, Updates will be coming frequently with new and more powerful features
+
 ## Installation
 
 ### Requirements
