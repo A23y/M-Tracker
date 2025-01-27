@@ -24,18 +24,17 @@ Before using **M-Tracker**, make sure you have the following Python libraries in
 - `phonenumbers`
 - `os`
 
-### Step-by-step Installation
 
-Just copy and paste it simply 🙃🙃🙃
+### Just copy and paste it simply for installation 🙃🙃🙃
 
-"
+`
 pip install requests colorama googlesearch-python phonenumbers
 git clone https://github.com/A23y/M-Tracker.git
 cd /M-Tracker
 python M-Tracker.py
-" 
+`
 
 And..
 
 
-Enjoy!!!!!!!
+### Enjoy!!!!!!!
